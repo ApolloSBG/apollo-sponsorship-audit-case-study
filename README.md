@@ -1,6 +1,6 @@
 # ⚽ Apollo Sports Business Group: Commercial Sponsorship Audit Pipeline
 
-Causal regression and graph centrality pipeline for sports sponsorship valuation and offline inventory auditing by **Apollo Sports Business Group**.
+Multivariable regression and graph centrality pipeline for sports sponsorship valuation and offline inventory auditing by **Apollo Sports Business Group**.
 
 This repository contains the data science pipeline, dataset, and executive report for Apollo's evidence-based commercial audit framework.
 
@@ -12,7 +12,7 @@ The case study evaluates a **$6.56M USD (118.05M MXN)** multi-sponsor portfolio 
 
 Traditional sponsorship measurement tools focus solely on digital impressions and screen time. **Apollo Sports Business Group** bridges the gap between raw measurement data and CFO-ready financial decision-making by:
 
-1. **Evaluating Association vs. Baseline Noise**: Applying Multivariable OLS Regression to evaluate broadcast reach associated with marquee rival attendance vs. standalone sponsor exposure.
+1. **Evaluating Association vs. Baseline Noise**: Directing a multivariable OLS regression workflow to evaluate broadcast reach associated with marquee rival attendance vs. standalone sponsor exposure.
 2. **Valuing Offline Inventory**: Using **Eigenvector Graph Centrality** to model physical matchday foot traffic across stadium concourses, entry gates, and fan corridors.
 3. **Reconciling the Portfolio**: Categorizing assets into Apollo's 4 Quantified Outcomes (*Protected Value*, *Justified Incremental Investment*, *Potential Cost Reduction*, and *Investment Pending*).
 
