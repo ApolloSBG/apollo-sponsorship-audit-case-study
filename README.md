@@ -1,6 +1,6 @@
 # apollo-sponsorship-audit-case-study
 Causal OLS regression and graph centrality pipeline for sports sponsorship valuation and offline inventory auditing by Apollo Sports Business Group.
-Repository README.md File# ⚽ Apollo Sports Business Group: Commercial Sponsorship Audit Pipeline
+⚽ Apollo Sports Business Group: Commercial Sponsorship Audit Pipeline
 
 This repository contains the data science pipeline, dataset, and executive report for **Apollo Sports Business Group's** commercial sponsorship audit framework.
 
